@@ -14,6 +14,7 @@ Next up:
 USeful unix commands to check things:
 - diff //diskstation/photo/2012 ./pictures/2012
 
+This is a silly edit to test source tree
 @author: Alex
 '''
 import os
